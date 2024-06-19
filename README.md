@@ -7,6 +7,7 @@ Hello World! I'm an Autonomous and Embedded Systems Developer based in Egypt, ea
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rizk-omarsherif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
