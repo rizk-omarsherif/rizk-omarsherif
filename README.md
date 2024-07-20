@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World! I'm an Autonomous and Embedded Systems Developer based in Egypt, eager to contribute to the automotive world. With expertise in software development and a focus on embedded systems, I'm dedicated to driving innovation in mobility technology. Follow along as I strive to make impactful advancements in the automotive field :)
+Hello World! I'm an Embedded and Autonomous Systems Developer based in Egypt, eager to contribute to the automotive world. With expertise in software development and a focus on embedded systems, I'm dedicated to driving innovation in mobility technology. Follow along as I strive to make impactful advancements in the automotive field :)
 
 
 ## 🌐 Socials:
