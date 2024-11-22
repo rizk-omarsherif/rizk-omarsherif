@@ -11,6 +11,6 @@ Hello World! I'm an Embedded and Autonomous Systems Developer based in Egypt, ea
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizk-omarsherif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizk-omarsherif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
