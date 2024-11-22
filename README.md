@@ -7,7 +7,7 @@ Hello World! I'm an Embedded and Autonomous Systems Developer based in Egypt, ea
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Modern C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
