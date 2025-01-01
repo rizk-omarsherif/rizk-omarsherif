@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hello World! I'm an Embedded and Autonomous Systems Developer based in Egypt, eager to contribute to the automotive world. With expertise in software development and a focus on embedded systems, I'm dedicated to driving innovation in mobility technology. Follow along as I strive to make impactful advancements in the automotive field :)
+Hello World! I'm Omar Rizk, an aspiring Embedded Software Developer and Tester based in Egypt, passionate about embedded systems and automotive technologies.
 
+With a knowledge in C, Modern C++, and Python, I am gaining experience with automotive tools like Vector CANoe, CANalyzer, and CAPL scripting. I have worked with automotive protocols such as CAN and LIN and have a growing understanding of ARM architecture. My knowledge also includes industry standards like AUTOSAR, ASPICE, and MISRA C.
+
+Certified in ISTQB FL v4.0 and Agile Testing, I’m building hands-on experience in embedded unit testing, integration, validation, and system testing using tools like CUnit and GTest.
+
+Follow along as I continue to learn and grow in the automotive world! 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-sherif-rizk) 
