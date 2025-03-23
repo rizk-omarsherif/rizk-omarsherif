@@ -51,7 +51,7 @@ I also leverage **AI-powered tools** like **GitHub Copilot, Cursor, and Windsurf
 
 ## 📊 GitHub Stats:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizk-omarsherif&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizk-omarsherif&theme=dark&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizk-omarsherif&theme=dark&layout=compact&cache_seconds=1800)
 
 ---
 
