@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hello World! I'm **Omar Rizk**, a **Junior Software Test Automation Engineer** passionate about ensuring software quality across diverse platforms, including **web applications, mobile apps (Android & iOS), embedded systems, and AI-based applications**.  
+Hello World! I'm **Omar Rizk**, a **Software Test Automation Engineer** passionate about ensuring software quality across diverse platforms, including **web applications, mobile apps (Android & iOS), embedded systems, and AI-based applications**.  
 
 I thrive in **Agile environments**, working on projects with **CI/CD pipelines**, ensuring software is **thoroughly tested throughout the SDLC**. My focus is on building **efficient, scalable, and reliable test automation frameworks** that enhance software quality.  
 
-I also leverage **AI-powered tools** like **GitHub Copilot, Cursor, and Windsurf IDE** to enhance productivity, accelerate learning, and stay ahead in the fast-paced tech world. 🚀  
+I also leverage **AI-powered tools** like **GitHub Copilot, and Cursor IDE** to enhance productivity, accelerate learning, and stay ahead in the fast-paced tech world. 🚀  
 
 ---
 
